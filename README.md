@@ -18,4 +18,5 @@ The complete **50+ prompt pack** gives you copy-paste prompts for:
 
 **$9 one-time. Instant download. Free updates.**
 
-→ https://buy.stripe.com/eVq5kx4w9d2i0Nec1daMU01
+→ Full details: [SALES.md](SALES.md)  
+→ Buy now: https://buy.stripe.com/eVq5kx4w9d2i0Nec1daMU01
