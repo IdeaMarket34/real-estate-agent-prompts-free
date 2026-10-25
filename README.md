@@ -7,8 +7,15 @@ Copy any prompt, replace the [BRACKETS], and paste into ChatGPT, Claude, or Grok
 See `prompts.md` for the full list.
 
 ## Want the full pack?
-The complete **50+ prompt pack** (listings, client emails, social/Reels, objections, CMAs, and more) is available here:
+Most agents spend hours every week writing listing descriptions, client emails, and social posts that still sound generic.
 
-**$9 instant download** → https://buy.stripe.com/eVq5kx4w9d2i0Nec1daMU01
+The complete **50+ prompt pack** gives you copy-paste prompts for:
+- Listing descriptions that sound specific without Fair Housing risk
+- Client emails and follow-ups
+- Social posts and Reels scripts
+- Objection handling
+- CMAs and market updates
 
-Free updates included.
+**$9 one-time. Instant download. Free updates.**
+
+→ https://buy.stripe.com/eVq5kx4w9d2i0Nec1daMU01
